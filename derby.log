@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Feb 28 21:10:12 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0169-34c3-5bee-00000eee4400 
+on database directory memory:/Users/kojayaku/Documents/Koushik/intelij/telmetry-report-collection/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4459eb14 
+Loaded from file:/Users/kojayaku/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.1+10
+user.dir=/Users/kojayaku/Documents/Koushik/intelij/telmetry-report-collection
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
